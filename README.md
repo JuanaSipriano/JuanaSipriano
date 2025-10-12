@@ -42,5 +42,4 @@ I am a PhD Candidate in Global Development Studies and a Data Analyst in trainin
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">
 </a>
 
-
-    
+   
