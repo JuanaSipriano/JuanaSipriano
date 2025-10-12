@@ -35,7 +35,7 @@ I am a PhD Candidate in Global Development Studies and a Data Analyst in trainin
 
 ## Check out my Social Media 
 
-<a href = "www.linkedin.com/in/juanaaureliasiprianomorales">
+<a href = "https://www.linkedin.com/in/juanaaureliasiprianomorales/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <a href = "https://www.researchgate.net/profile/Juana-Sipriano-Morales">
