@@ -42,4 +42,10 @@ I am a PhD Candidate in Global Development Studies and a Data Analyst in trainin
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">
 </a>
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JuanaSipriano&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanaSipriano)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanaSipriano&theme=material-palenight)](https://github.com/JuanaSipriano)
+</div>
+
    
